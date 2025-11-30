@@ -1,0 +1,6 @@
+{
+  // Tell Pylance where to look for modules like "agentic"
+  "python.analysis.extraPaths": [
+    "./app"
+  ]
+}
