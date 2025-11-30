@@ -81,7 +81,7 @@ Each candidate receives the following scores:
 
 # 📁 Project Structure
 
-resume-ranking-agent/
+Resume-Screening-Agent/
 ├─ app/
 │  ├─ app.py                         # Streamlit UI entry point
 │  ├─ __init__.py                    # makes /app a package
@@ -102,14 +102,11 @@ resume-ranking-agent/
 │
 ├─ data/
 │  ├─ uploads/                       # uploaded resumes (created automatically)
-│  │   ├─                            
 │  ├─ logs/
-│  │   ├─ runs.jsonl                 # append-only logs (auto-created)
-│  │   
+│  │   └─ runs.jsonl                 # append-only logs (auto-created)
 │  └─ sample_resumes/                # optional demo files
-│      └─
 │
-├─ .env                              # template for API keys & config
+├─ .env                              # environment variables (not committed)
 ├─ requirements.txt                  # Python dependencies
 ├─ README.md                         # project documentation
 └─ .gitignore                        # ignore venv, logs, uploads, .env
