@@ -1,4 +1,4 @@
-
+[
 # 📄 Resume Screening Agent — Agentic AI for Recruiter Productivity
 
 **Streamlit + LangGraph + LangChain + OpenAI + Vector Scoring + LLM Rationales + PDF Reports**
@@ -121,8 +121,8 @@ resume-ranking-agent/
 ## 1️⃣ Clone the repo
 
 ```bash
-git clone <your-repo-url> resume-ranking-agent
-cd resume-ranking-agent
+git clone https://github.com/Code10x-letscodewithManju/Resume_Screening_Agent.git
+cd Resume_Screening_Agent
 ```
 
 ---
@@ -355,3 +355,4 @@ This architecture supports:
 Built by **Manjunath S**
 CSE | AI/ML | LLMs | Agentic Systems
 
+](https://github.com/Code10x-letscodewithManju/Resume_Screening_Agent)
