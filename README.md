@@ -81,7 +81,7 @@ Each candidate receives the following scores:
 
 # 📁 Project Structure
 
-'''
+```
 Resume-Screening-Agent/
 ├─ app/
 │  ├─ app.py                         # Streamlit UI entry point
@@ -111,8 +111,7 @@ Resume-Screening-Agent/
 ├─ requirements.txt                  # Python dependencies
 ├─ README.md                         # project documentation
 └─ .gitignore                        # ignore venv, logs, uploads, .env
-
-'''
+```
 ---
 
 # 🔧 Installation & Setup
