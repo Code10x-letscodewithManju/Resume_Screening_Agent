@@ -1,4 +1,4 @@
-[
+
 # 📄 Resume Screening Agent — Agentic AI for Recruiter Productivity
 
 **Streamlit + LangGraph + LangChain + OpenAI + Vector Scoring + LLM Rationales + PDF Reports**
@@ -355,4 +355,4 @@ This architecture supports:
 Built by **Manjunath S**
 CSE | AI/ML | LLMs | Agentic Systems
 
-](https://github.com/Code10x-letscodewithManju/Resume_Screening_Agent)
+(https://github.com/Code10x-letscodewithManju/Resume_Screening_Agent)
